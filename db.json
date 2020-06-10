@@ -1,19 +1,14 @@
 {
-  "videos": [
-    {
-    "id": 1,
-    "title": "Devane",
-    "url": "https://www.youtube.com/embed/5pZO8e6yZsM"
-  },
-  {
-    "id": 2,
-    "title": "Yesaiah",
-    "url": "https://www.youtube.com/embed/qgDC4scsxRg"
-  },
-  {
-    "id": 3,
-    "title": "promo",
-    "url": "https://www.youtube.com/embed/AiPtPt0cxKA"
+  "posts": [
+    { "id": 1, "title": "Post 1" },
+    { "id": 2, "title": "Post 2" },
+    { "id": 3, "title": "Post 3" }
+  ],
+  "comments": [
+    { "id": 1, "body": "some comment", "postId": 1 },
+    { "id": 2, "body": "some comment", "postId": 1 }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
 }
