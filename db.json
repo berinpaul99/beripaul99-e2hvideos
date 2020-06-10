@@ -10,5 +10,21 @@
   ],
   "profile": {
     "name": "typicode"
-  }
+  },
+  "videos": [
+    {
+    "id": 1,
+    "title": "Devane",
+    "url": "https://www.youtube.com/embed/5pZO8e6yZsM"
+  },
+  {
+    "id": 2,
+    "title": "Yesaiah",
+    "url": "https://www.youtube.com/embed/qgDC4scsxRg"
+  },
+  {
+    "id": 3,
+    "title": "promo",
+    "url": "https://www.youtube.com/embed/AiPtPt0cxKA"
+  }],
 }
